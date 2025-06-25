@@ -98,7 +98,7 @@ class Hexagon(Shape):
 
 
 
-a=Rectangle(10,5)
+# a=Rectangle(10,5)
 # print(a.get_area())
 # b=Square(12)
 # print(b)
